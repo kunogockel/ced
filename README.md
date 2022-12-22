@@ -1,0 +1,2 @@
+# ced
+Console editor
